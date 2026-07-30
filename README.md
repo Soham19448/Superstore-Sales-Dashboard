@@ -115,9 +115,9 @@ It enables users to:
 
 Bachelor of Computer Science
 
-📧 Email: your-email@example.com
+📧 Email: sohamkachole63@gmail.com
 
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+🔗 LinkedIn: www.linkedin.com/in/soham-kachole-5681ab2b4
 
 💻 GitHub: https://github.com/soham19448
 
