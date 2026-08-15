@@ -1,126 +1,64 @@
-# 📊 Superstore Sales Dashboard (Microsoft Excel)
+# 📊 Superstore Sales & Profit Dashboard
 
-An interactive Excel dashboard built using the Sample Superstore dataset to analyze sales performance, profitability, customer segments, shipping methods, and regional trends.
+A data analytics project built using **Microsoft Excel and Power BI** using the Superstore dataset.
 
----
-
-## 📸 Dashboard Preview
-
-![Dashboard](Screenshots/Dashboard.png)
+This repository contains two versions of the dashboard: an Excel dashboard and an interactive Power BI dashboard.
 
 ---
 
-## 📌 Project Overview
+## 📊 Microsoft Excel Dashboard
 
-This dashboard provides business insights using PivotTables, PivotCharts, Slicers, and Excel dashboard design techniques.
+Interactive sales dashboard created using:
 
-It enables users to:
-
-- Monitor Total Sales
-- Analyze Total Profit
-- Track Orders & Quantity
-- View Monthly Sales Trend
-- Compare Sales by Category
-- Analyze Profit by Sub-Category
-- Compare Sales by Region
-- Compare Sales by Segment
-- Analyze Sales by Ship Mode
-- View Top 10 Products by Sales
-- View Top 10 States by Sales
-- Filter data using interactive slicers
-
----
-
-## 📈 Dashboard KPIs
-
-- 💰 Total Sales
-- 📈 Total Profit
-- 🛒 Total Orders
-- 📦 Total Quantity Sold
-- 🎯 Average Discount
-
----
-
-## 📊 Visualizations
-
-- Monthly Sales Trend
-- Sales by Category
-- Profit by Sub-Category
-- Sales by Region
-- Sales by Segment
-- Sales by Ship Mode
-- Top 10 Products by Sales
-- Top 10 States by Sales
-
----
-
-## 🎛 Interactive Filters
-
-- Region
-- Category
-- Segment
-- Ship Mode
-
----
-
-## 🛠 Tools & Skills Used
-
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
+- PivotTables
+- PivotCharts
 - KPI Cards
-- Conditional Formatting
-- Dashboard Design
-- Data Cleaning
-- Business Analysis
+- Slicers
+- Excel formulas
+
+### Files
+
+- [Excel Dashboard](./Superstore%20Dashboard.xlsx)
+- [Dashboard PDF](./Dashboard.pdf)
+- [Dashboard Screenshot](./Dashboard.png)
 
 ---
 
-## 📂 Files Included
+## 📈 Power BI Dashboard
 
-| File | Description |
-|------|-------------|
-| Superstore Dashboard.xlsx | Interactive Excel Dashboard |
-| Dashboard.pdf | Dashboard exported as PDF |
-| Dashboard.png | Dashboard preview |
-| README.md | Project documentation |
+Interactive sales and profit analysis dashboard created using:
 
----
+- Microsoft Power BI
+- Power Query
+- DAX
+- KPI Cards
+- Interactive Slicers
+- Data Visualization
 
-## 📊 Key Business Insights
+### Dashboard Preview
 
-- Technology generated the highest sales.
-- Consumer segment contributed the largest share of revenue.
-- Standard Class was the most frequently used shipping mode.
-- Sales varied significantly across regions.
-- The Top 10 products generated a substantial portion of total sales.
+#### Page 1 — Sales & Profit Analytics
 
----
+![Power BI Sales Dashboard](./Power-BI/Page-1-Sales-Dashboard.png)
 
-## 📚 What I Learned
+#### Page 2 — Profit & Performance Analysis
 
-- Creating professional Excel dashboards
-- Designing KPI cards
-- Building PivotTables & PivotCharts
-- Connecting multiple slicers
-- Data visualization best practices
-- Dashboard layout and formatting
+![Power BI Profit Dashboard](./Power-BI/Page-2-Profit-Analysis.png)
+
+### Power BI Files
+
+- [Power BI Dashboard (.pbix)](./Power-BI/Superstore%20Dashboard.pbix)
+- [Power BI README](./Power-BI/README.md)
 
 ---
 
-## 👨‍💻 Developed By
+## 🛠️ Tools & Technologies
 
-**Soham Kachole**
-
-Bachelor of Computer Science
-
-📧 Email: sohamkachole63@gmail.com
-
-🔗 LinkedIn: www.linkedin.com/in/soham-kachole-5681ab2b4
-
-💻 GitHub: https://github.com/soham19448
-
----
-
-⭐ If you like this project, feel free to star the repository.
+| Tool | Purpose |
+|---|---|
+| Microsoft Excel | Sales dashboard and analysis |
+| Power BI | Interactive sales and profit analysis |
+| Power Query | Data transformation |
+| DAX | Calculated measures |
+| PivotTables | Excel data analysis |
+| PivotCharts | Excel visualization |
